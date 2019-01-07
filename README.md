@@ -1,2 +1,2 @@
-# depRoot-api
-Ferramenta de Deploy - API
+# depRoot-cli
+Ferramenta de Deploy - CLI
